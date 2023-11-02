@@ -1,0 +1,43 @@
+/* CSS for AboutPage */
+
+.about-page {
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 0px;
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  .about-header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .about-header h1 {
+    font-size: 24px;
+  }
+  
+  .about-content {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .about-content p {
+    margin-bottom: 20px;
+  }
+  
+  .about-content ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .about-content li {
+    margin-bottom: 10px;
+  }
+  
+  /* You can add more styles as needed */
+  

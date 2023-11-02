@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    
+}
+.main-container{
+    background-image: url('https://images.unsplash.com/photo-1498522271744-cdd435c13f24?auto=format&fit=crop&q=80&w=2075&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    
+    background-size: cover;
+    
+}
+form{
+    /* background-color: #fff; */
+    border: 2px solid black;
+    width: 60%;
+    height: 600px;
+    margin-left: 20%;
+    padding: 10%;
+    
+    
+}

@@ -1,0 +1,13 @@
+.ftr{
+    background-color: black;
+    display: flex;
+    height: 100px;
+    color: #ccc;
+    justify-content: center;
+    align-items: end;
+    font-size: medium;
+   
+  }
+  .ftr p{
+    margin-bottom: 50px;
+  }
